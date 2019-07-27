@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 54: expected ':' not found.
+    else if powerLevel >= 3000 or powerLevel <= 9000:
+         ^
+
+File "game/script.rpy", line 56: expected statement.
+    else:
+        ^
+
+Ren'Py Version: Ren'Py 7.3.2.320
+Fri Jul 26 17:35:51 2019
